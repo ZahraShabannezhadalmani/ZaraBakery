@@ -1,0 +1,13 @@
+5 components that will be in scope for integration testing in the website:
+1)User Authentication System: This component manages user authentication 
+and authorization, including user login, registration, and session management.
+2)Product Catalog and Inventory Management: This component handles the management 
+of products available for sale, including adding, updating, 
+and removing products from the catalog, as well as managing inventory levels.
+3)Shopping Cart and Order Processing: This component allows users to add 
+products to their shopping cart, update quantities, and proceed to checkout. It also manages 
+the processing of orders, including order validation, payment processing, and order fulfillment.
+4)Payment Gateway Integration: This component integrates with third-party payment gateways to facilitate
+secureonline payments. It handles payment authorization, transaction processing, and response handling.
+5)User Reviews and Ratings: This component enables users to leave reviews and ratings for products they 
+have purchased.It manages the storage and retrieval of user reviews, as well as the display of ratings on product pages
