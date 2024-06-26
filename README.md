@@ -34,4 +34,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback regarding this ecommerce website, please contact Zahra Shabannezhad at [insert contact information here].
+For any questions or feedback regarding this ecommerce website, please contact Zahra Shabannezhad at [Shabannezhadalmanizahra@gmail.com ].
